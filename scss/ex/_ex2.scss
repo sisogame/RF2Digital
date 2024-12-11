@@ -72,16 +72,16 @@
 					 background-image: url(../../img/ico06.svg);
 				}
 				.ico-proven {
-					 background-image: url(../../img/ico07.svg);
+					 background-image: url(../img/ico07.svg);
 				}
 				.ico-advan {
-					 background-image: url(../../img/ico08.svg);
+					 background-image: url(../img/ico08.svg);
 				}
 				.ico-flex {
-					 background-image: url(../../img/ico10.svg);
+					 background-image: url(../img/ico10.svg);
 				}
 				.ico-progress {
-					 background-image: url(../../img/ico12.svg);
+					 background-image: url(../img/ico12.svg);
 				}
 
 				p {
@@ -153,25 +153,25 @@
 					 background: no-repeat center center / 100%;
 
 					 &.ico-am {
-							background-image: url(../../img/Partner_logo01.svg);
+							background-image: url(../img/Partner_logo01.svg);
 					 }
 					 &.ico-dab {
-							background-image: url(../../img/Partner_logo02_modify.svg);
+							background-image: url(../img/Partner_logo02_modify.svg);
 					 }
 					 &.ico-drm {
-							background-image: url(../../img/Partner_logo03.svg);
+							background-image: url(../img/Partner_logo03.svg);
 					 }
 					 &.ico-hdr {
-							background-image: url(../../img/Partner_logo04.svg);
+							background-image: url(../img/Partner_logo04.svg);
 					 }
 					 &.ico-cdr {
-							background-image: url(../../img/Partner_logo05.svg);
+							background-image: url(../img/Partner_logo05.svg);
 					 }
 					 &.ico-ip {
-							background-image: url(../../img/Partner_logo06.svg);
+							background-image: url(../img/Partner_logo06.svg);
 					 }
 					 &.ico-radio {
-							background-image: url(../../img/Partner_logo07.svg);
+							background-image: url(../img/Partner_logo07.svg);
 					 }
 				}
 
@@ -361,7 +361,7 @@
 							&::before {
 								 content: "";
 								 display: inline-block;
-								 background: url(../../img/ico-check.svg) no-repeat center center / 100%;
+								 background: url(../img/ico-check.svg) no-repeat center center / 100%;
 								 width: 0.75rem;
 								 height: 0.75rem;
 								 margin-right: 0.5rem;
@@ -489,7 +489,7 @@
 	.mobile-sub-menu {
 
 		appearance: none; 
-		background: url('../../img/header-mobile-select-arw-down.png') no-repeat right 15px center !important; 
+		background: url('../img/header-mobile-select-arw-down.png') no-repeat right 15px center !important; 
 	 background-size: 14px !important;
 	 background-color: #eee !important;
 	 }
@@ -688,7 +688,7 @@
 							li::before {
 								 content: "";
 								 display: inline-block;
-								 background: url(../../img/ico-mo-check.svg) no-repeat center center / contain;
+								 background: url(../img/ico-mo-check.svg) no-repeat center center / contain;
 								 width: 12px;
 								 height: 12px;
 								 margin-right: 8px;
