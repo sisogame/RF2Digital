@@ -21894,19 +21894,19 @@ body.on {
   background: no-repeat center center/100%;
 }
 .sub-info .intro-menu02 .intro-advantages-wrap .intro-advantages__item .ico-perfor {
-  background-image: url(../../img/ico06.svg);
+  background-image: url(../img/ico06.svg);
 }
 .sub-info .intro-menu02 .intro-advantages-wrap .intro-advantages__item .ico-proven {
-  background-image: url(../../img/ico07.svg);
+  background-image: url(../img/ico07.svg);
 }
 .sub-info .intro-menu02 .intro-advantages-wrap .intro-advantages__item .ico-advan {
-  background-image: url(../../img/ico08.svg);
+  background-image: url(../img/ico08.svg);
 }
 .sub-info .intro-menu02 .intro-advantages-wrap .intro-advantages__item .ico-flex {
-  background-image: url(../../img/ico10.svg);
+  background-image: url(../img/ico10.svg);
 }
 .sub-info .intro-menu02 .intro-advantages-wrap .intro-advantages__item .ico-progress {
-  background-image: url(../../img/ico12.svg);
+  background-image: url(../img/ico12.svg);
 }
 .sub-info .intro-menu02 .intro-advantages-wrap .intro-advantages__item p {
   font-size: 1.875rem;
@@ -21971,25 +21971,25 @@ body.on {
   background: no-repeat center center/100%;
 }
 .sub-info .intro-menu03 .radio-wrap .radio-card .icon.ico-am {
-  background-image: url(../../img/Partner_logo01.svg);
+  background-image: url(../img/Partner_logo01.svg);
 }
 .sub-info .intro-menu03 .radio-wrap .radio-card .icon.ico-dab {
-  background-image: url(../../img/Partner_logo02_modify.svg);
+  background-image: url(../img/Partner_logo02_modify.svg);
 }
 .sub-info .intro-menu03 .radio-wrap .radio-card .icon.ico-drm {
-  background-image: url(../../img/Partner_logo03.svg);
+  background-image: url(../img/Partner_logo03.svg);
 }
 .sub-info .intro-menu03 .radio-wrap .radio-card .icon.ico-hdr {
-  background-image: url(../../img/Partner_logo04.svg);
+  background-image: url(../img/Partner_logo04.svg);
 }
 .sub-info .intro-menu03 .radio-wrap .radio-card .icon.ico-cdr {
-  background-image: url(../../img/Partner_logo05.svg);
+  background-image: url(../img/Partner_logo05.svg);
 }
 .sub-info .intro-menu03 .radio-wrap .radio-card .icon.ico-ip {
-  background-image: url(../../img/Partner_logo06.svg);
+  background-image: url(../img/Partner_logo06.svg);
 }
 .sub-info .intro-menu03 .radio-wrap .radio-card .icon.ico-radio {
-  background-image: url(../../img/Partner_logo07.svg);
+  background-image: url(../img/Partner_logo07.svg);
 }
 .sub-info .intro-menu03 .radio-wrap .radio-card .top-title {
   font-size: 1.875rem;
@@ -22163,7 +22163,7 @@ body.on {
 .sub-info .table-type .note-wrap ul li::before {
   content: "";
   display: inline-block;
-  background: url(../../img/ico-check.svg) no-repeat center center/100%;
+  background: url(../img/ico-check.svg) no-repeat center center/100%;
   width: 0.75rem;
   height: 0.75rem;
   margin-right: 0.5rem;
@@ -22272,7 +22272,7 @@ body.on {
   }
   .mobile-sub-menu {
     appearance: none;
-    background: url("../../img/header-mobile-select-arw-down.png") no-repeat right 15px center !important;
+    background: url("../img/header-mobile-select-arw-down.png") no-repeat right 15px center !important;
     background-size: 14px !important;
     background-color: #eee !important;
   }
@@ -22451,7 +22451,7 @@ body.on {
   .sub-contents .sub-info .table-type .note-wrap li::before {
     content: "";
     display: inline-block;
-    background: url(../../img/ico-mo-check.svg) no-repeat center center/contain;
+    background: url(../img/ico-mo-check.svg) no-repeat center center/contain;
     width: 12px;
     height: 12px;
     margin-right: 8px;
